@@ -66,6 +66,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
 
+      - name: Aggregate QQQ data
+        run: pipenv run python .github/scripts/aggregate_qqq.py
+
+
       - name: Get filings date
         id: date
         run: |
