@@ -1,0 +1,400 @@
+{
+  "quarter": "2026Q3",
+  "generatedAt": "2026-10-09T01:51:13.238021+00:00",
+  "holdings": {
+    "META": {
+      "positions": [
+        {
+          "fund": "Zevenbergen",
+          "manager": "Nancy Zevenbergen",
+          "shares": 210063,
+          "value": "152.33M",
+          "portfolioPct": "3.5%",
+          "delta": "-4.7%",
+          "deltaShares": -10360
+        },
+        {
+          "fund": "Burr",
+          "manager": "Sean Burr",
+          "shares": 3858,
+          "value": "2.8M",
+          "portfolioPct": "1.7%",
+          "delta": "-76.7%",
+          "deltaShares": -12699
+        }
+      ],
+      "summary": {
+        "increased": 0,
+        "decreased": 2,
+        "new": 0,
+        "closed": 0
+      },
+      "totalFunds": 2
+    },
+    "NVDA": {
+      "positions": [
+        {
+          "fund": "Zevenbergen",
+          "manager": "Nancy Zevenbergen",
+          "shares": 1765724,
+          "value": "403.26M",
+          "portfolioPct": "9.2%",
+          "delta": "-2.2%",
+          "deltaShares": -40152
+        },
+        {
+          "fund": "Burr",
+          "manager": "Sean Burr",
+          "shares": 231470,
+          "value": "52.86M",
+          "portfolioPct": "32.3%",
+          "delta": "-2%",
+          "deltaShares": -4675
+        },
+        {
+          "fund": "Eleva",
+          "manager": "Eric Bendahan",
+          "shares": 7179,
+          "value": "1.64M",
+          "portfolioPct": "1.4%",
+          "delta": "-86.2%",
+          "deltaShares": -44823
+        }
+      ],
+      "summary": {
+        "increased": 0,
+        "decreased": 3,
+        "new": 0,
+        "closed": 0
+      },
+      "totalFunds": 3
+    },
+    "TSLA": {
+      "positions": [
+        {
+          "fund": "Zevenbergen",
+          "manager": "Nancy Zevenbergen",
+          "shares": 521985,
+          "value": "185.21M",
+          "portfolioPct": "4.2%",
+          "delta": "-2.3%",
+          "deltaShares": -12137
+        }
+      ],
+      "summary": {
+        "increased": 0,
+        "decreased": 1,
+        "new": 0,
+        "closed": 0
+      },
+      "totalFunds": 1
+    },
+    "AVGO": {
+      "positions": [
+        {
+          "fund": "Zevenbergen",
+          "manager": "Nancy Zevenbergen",
+          "shares": 319000,
+          "value": "112.03M",
+          "portfolioPct": "2.6%",
+          "delta": "-0%",
+          "deltaShares": -150
+        },
+        {
+          "fund": "Eleva",
+          "manager": "Eric Bendahan",
+          "shares": 31991,
+          "value": "11.23M",
+          "portfolioPct": "9.9%",
+          "delta": "NEW",
+          "deltaShares": 31991
+        },
+        {
+          "fund": "Burr",
+          "manager": "Sean Burr",
+          "shares": 17666,
+          "value": "6.2M",
+          "portfolioPct": "3.8%",
+          "delta": "-58.1%",
+          "deltaShares": -24519
+        }
+      ],
+      "summary": {
+        "increased": 0,
+        "decreased": 2,
+        "new": 1,
+        "closed": 0
+      },
+      "totalFunds": 3
+    },
+    "AMZN": {
+      "positions": [
+        {
+          "fund": "Zevenbergen",
+          "manager": "Nancy Zevenbergen",
+          "shares": 617565,
+          "value": "153.87M",
+          "portfolioPct": "3.5%",
+          "delta": "-0.1%",
+          "deltaShares": -769
+        },
+        {
+          "fund": "Eleva",
+          "manager": "Eric Bendahan",
+          "shares": 63597,
+          "value": "15.85M",
+          "portfolioPct": "14%",
+          "delta": "+293.7%",
+          "deltaShares": 47442
+        },
+        {
+          "fund": "Burr",
+          "manager": "Sean Burr",
+          "shares": 12591,
+          "value": "3.14M",
+          "portfolioPct": "1.9%",
+          "delta": "-9.7%",
+          "deltaShares": -1357
+        },
+        {
+          "fund": "Herald",
+          "manager": "Katie Potts",
+          "shares": 0,
+          "value": "0",
+          "portfolioPct": "N/A",
+          "delta": "CLOSE",
+          "deltaShares": -49400
+        }
+      ],
+      "summary": {
+        "increased": 1,
+        "decreased": 2,
+        "new": 0,
+        "closed": 1
+      },
+      "totalFunds": 4
+    },
+    "MSFT": {
+      "positions": [
+        {
+          "fund": "Zevenbergen",
+          "manager": "Nancy Zevenbergen",
+          "shares": 517109,
+          "value": "265.23M",
+          "portfolioPct": "6.1%",
+          "delta": "+65.5%",
+          "deltaShares": 204714
+        },
+        {
+          "fund": "Eleva",
+          "manager": "Eric Bendahan",
+          "shares": 21817,
+          "value": "11.19M",
+          "portfolioPct": "9.9%",
+          "delta": "NEW",
+          "deltaShares": 21817
+        },
+        {
+          "fund": "Herald",
+          "manager": "Katie Potts",
+          "shares": 0,
+          "value": "0",
+          "portfolioPct": "N/A",
+          "delta": "CLOSE",
+          "deltaShares": -25800
+        }
+      ],
+      "summary": {
+        "increased": 1,
+        "decreased": 0,
+        "new": 1,
+        "closed": 1
+      },
+      "totalFunds": 3
+    },
+    "GOOGL": {
+      "positions": [
+        {
+          "fund": "Zevenbergen",
+          "manager": "Nancy Zevenbergen",
+          "shares": 221630,
+          "value": "76.26M",
+          "portfolioPct": "1.7%",
+          "delta": "-0.7%",
+          "deltaShares": -1572
+        },
+        {
+          "fund": "Eleva",
+          "manager": "Eric Bendahan",
+          "shares": 21105,
+          "value": "7.26M",
+          "portfolioPct": "6.4%",
+          "delta": "-24.5%",
+          "deltaShares": -6862
+        },
+        {
+          "fund": "Burr",
+          "manager": "Sean Burr",
+          "shares": 6655,
+          "value": "2.29M",
+          "portfolioPct": "1.4%",
+          "delta": "-10%",
+          "deltaShares": -740
+        },
+        {
+          "fund": "Herald",
+          "manager": "Katie Potts",
+          "shares": 0,
+          "value": "0",
+          "portfolioPct": "N/A",
+          "delta": "CLOSE",
+          "deltaShares": -44100
+        }
+      ],
+      "summary": {
+        "increased": 0,
+        "decreased": 3,
+        "new": 0,
+        "closed": 1
+      },
+      "totalFunds": 4
+    },
+    "AAPL": {
+      "positions": [
+        {
+          "fund": "Zevenbergen",
+          "manager": "Nancy Zevenbergen",
+          "shares": 504622,
+          "value": "168.05M",
+          "portfolioPct": "3.8%",
+          "delta": "+0.1%",
+          "deltaShares": 451
+        },
+        {
+          "fund": "Burr",
+          "manager": "Sean Burr",
+          "shares": 6703,
+          "value": "2.23M",
+          "portfolioPct": "1.4%",
+          "delta": "-4.2%",
+          "deltaShares": -295
+        },
+        {
+          "fund": "Eleva",
+          "manager": "Eric Bendahan",
+          "shares": 3200,
+          "value": "1.07M",
+          "portfolioPct": "0.94%",
+          "delta": "NEW",
+          "deltaShares": 3200
+        },
+        {
+          "fund": "Herald",
+          "manager": "Katie Potts",
+          "shares": 0,
+          "value": "0",
+          "portfolioPct": "N/A",
+          "delta": "CLOSE",
+          "deltaShares": -24500
+        }
+      ],
+      "summary": {
+        "increased": 1,
+        "decreased": 1,
+        "new": 1,
+        "closed": 1
+      },
+      "totalFunds": 4
+    },
+    "AMD": {
+      "positions": [
+        {
+          "fund": "Zevenbergen",
+          "manager": "Nancy Zevenbergen",
+          "shares": 348709,
+          "value": "213.33M",
+          "portfolioPct": "4.9%",
+          "delta": "-15.3%",
+          "deltaShares": -62876
+        },
+        {
+          "fund": "Burr",
+          "manager": "Sean Burr",
+          "shares": 5620,
+          "value": "3.44M",
+          "portfolioPct": "2.1%",
+          "delta": "+20.9%",
+          "deltaShares": 971
+        },
+        {
+          "fund": "Herald",
+          "manager": "Katie Potts",
+          "shares": 0,
+          "value": "0",
+          "portfolioPct": "N/A",
+          "delta": "CLOSE",
+          "deltaShares": -18820
+        }
+      ],
+      "summary": {
+        "increased": 1,
+        "decreased": 1,
+        "new": 0,
+        "closed": 1
+      },
+      "totalFunds": 3
+    },
+    "CRM": {
+      "positions": [],
+      "summary": {
+        "increased": 0,
+        "decreased": 0,
+        "new": 0,
+        "closed": 0
+      },
+      "totalFunds": 0
+    },
+    "NFLX": {
+      "positions": [
+        {
+          "fund": "Zevenbergen",
+          "manager": "Nancy Zevenbergen",
+          "shares": 106535,
+          "value": "7.41M",
+          "portfolioPct": "0.17%",
+          "delta": "-81.7%",
+          "deltaShares": -474810
+        },
+        {
+          "fund": "Eleva",
+          "manager": "Eric Bendahan",
+          "shares": 0,
+          "value": "0",
+          "portfolioPct": "0%",
+          "delta": "CLOSE",
+          "deltaShares": -87190
+        }
+      ],
+      "summary": {
+        "increased": 0,
+        "decreased": 1,
+        "new": 0,
+        "closed": 1
+      },
+      "totalFunds": 2
+    }
+  },
+  "nonQuarterly": {
+    "META": [],
+    "NVDA": [],
+    "TSLA": [],
+    "AVGO": [],
+    "AMZN": [],
+    "MSFT": [],
+    "GOOGL": [],
+    "AAPL": [],
+    "AMD": [],
+    "CRM": [],
+    "NFLX": []
+  }
+}
